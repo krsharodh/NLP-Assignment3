@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+__MACOSX/._covid.data.jsonl
+__MACOSX/._dev.baseline.json
+__MACOSX/._dev.data.jsonl
+__MACOSX/._dev.label.json
+__MACOSX/._eval.py
+__MACOSX/._test.data.jsonl
+__MACOSX/._train.data.jsonl
+__MACOSX/._train.label.json
+covid.data.jsonl
+dev.baseline.json
+dev.data.jsonl
+dev.label.json
+eval.py
+test.data.jsonl
+train.data.jsonl
+train.label.json
