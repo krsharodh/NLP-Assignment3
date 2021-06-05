@@ -1,0 +1,11 @@
+Akiko Aizawa,
+An information-theoretic perspective of tf–idf measures,
+Information Processing & Management,
+Volume 39, Issue 1,
+2003,
+Pages 45-65,
+ISSN 0306-4573,
+https://doi.org/10.1016/S0306-4573(02)00021-3.
+(https://www.sciencedirect.com/science/article/pii/S0306457302000213)
+Abstract: This paper presents a mathematical definition of the “probability-weighted amount of information” (PWI), a measure of specificity of terms in documents that is based on an information-theoretic view of retrieval events. The proposed PWI is expressed as a product of the occurrence probabilities of terms and their amounts of information, and corresponds well with the conventional term frequency–inverse document frequency measures that are commonly used in today’s information retrieval systems. The mathematical definition of the PWI is shown, together with some illustrative examples of the calculation.
+Keywords: tf–idf; Term weighting theories; Information theory; Text categorization
